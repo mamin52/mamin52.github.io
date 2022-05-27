@@ -1,0 +1,46 @@
+html {
+	font-size: 18px;
+	font-family: 'Akshar', sans-serif;
+	background-image:
+	url('https://clipart-db.ru/file_content/rastr/city-040.jpg');
+  }
+  h1 {
+	font-size: 70px;
+	text-align: center;
+	color: white ;
+	margin: 0;
+	padding: 20px 0;
+	color: #FFFFFF;
+	text-shadow: 3px 3px 3px black;
+  }
+  a {
+	  color: aqua;
+  }
+  
+  p, li {
+	font-size: 15px;
+	line-height: 1.5;
+	letter-spacing: 1.5px;
+	color: white ;
+	text-shadow: 1px 1px 1px black;
+  }
+  body {
+	width: 1200px;
+	margin: 50px auto;
+	background-color: #75C0FA;
+	padding: 100px 50px 10px 50px;
+	border: 1px solid #000000;
+	border-radius: 2rem;
+	background-image: url('https://mobimg.b-cdn.net/v3/fetch/54/542c2e98ab1ca78e9c040b408acfcd2d.jpeg?w=1470&r=0.5625');
+  }
+  img {
+	display: block;
+	margin: 0 auto;
+  }
+  button {
+	display: block;
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 10px 10px 10px 10px;
+	border-radius: 1rem;
+  }

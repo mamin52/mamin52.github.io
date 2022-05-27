@@ -1,1 +1,0 @@
-# mamin52.github.io
